@@ -8,8 +8,4 @@ joblib
 openpyxl
 pyarrow
 torch
-uuid
-json 
-threading
-time
 torch-geometric
