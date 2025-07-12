@@ -8,10 +8,10 @@ joblib
 openpyxl
 pyarrow
 torch
-torch-geometric
 collections
 uuid
 os
 json 
 threading
 time
+torch-geometric
