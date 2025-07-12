@@ -12,5 +12,6 @@ torch-geometric
 collections
 uuid
 os
-json threading
+json 
+threading
 time
