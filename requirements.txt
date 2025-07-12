@@ -9,7 +9,6 @@ openpyxl
 pyarrow
 torch
 uuid
-os
 json 
 threading
 time
